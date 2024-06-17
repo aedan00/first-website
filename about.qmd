@@ -2,4 +2,11 @@
 title: "About"
 ---
 
-About this site
+Aedan
+
+
+publish:
+  quarto_pub:
+    type: quarto_pub
+    site: a-new-website
+
