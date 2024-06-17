@@ -2,11 +2,7 @@
 title: "About"
 ---
 
-Aedan
-
-
-publish:
-  quarto_pub:
-    type: quarto_pub
-    site: a-new-website
+## About Me
+My name is **Aedan**, I go to *Coffman* High School.
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
 
